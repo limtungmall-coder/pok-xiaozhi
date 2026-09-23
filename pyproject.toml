@@ -1,12 +1,12 @@
 [project]
-name = "py-xiaozhi"
+name = "pok-xiaozhi"
 version = "1.0.0"
-description = "小智 AI 客户端 - 跨平台语音助手"
+description = description = "pok-xiaozhi - บอร์ด AI ผู้ช่วยคนไทย พูดไทยชัดด้วยเสียง PremwadeeNeural"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "Junsen", email = "junsen@example.com" }]
-keywords = ["ai", "voice-assistant", "xiaozhi"]
+keywords = ["xiaozhi", "thai-tts", "ma-mao-brand", "isaan"]
 
 dependencies = [
     # 音频处理
