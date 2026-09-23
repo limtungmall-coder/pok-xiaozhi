@@ -1,4 +1,4 @@
-# py-xiaozhi
+# pok-xiaozhi - ผู้ช่วยประจำบ้าน
 
 <p align="center" class="trendshift">
   <a href="https://trendshift.io/repositories/14130" target="_blank">
